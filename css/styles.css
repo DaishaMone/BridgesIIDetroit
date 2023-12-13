@@ -113,22 +113,3 @@ audio  {
         width: auto;
         height: 100%;
     }
-}
-
-.left {
-    width: 500px;
-    border: 1px solid white;
-
-   
-}
-.mid {
-    width: 500px;
-    border: 1px solid white;
-
-
-}
-.right {
-    width: 500px;
-    border: 1px solid white;
-   
-}
