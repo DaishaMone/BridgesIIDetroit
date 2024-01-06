@@ -1,0 +1,31 @@
+/*************Tag Selectors***********/
+body {
+    background-color: black;
+
+}
+button {
+    
+    font-size: 3.5rem;
+    display: inline;
+    font-family: "Brush Script MT", cursive;
+    position: relative;
+    top: 320px; 
+    transform: rotate(-10deg);
+    background-color: transparent;
+    border: none;
+    outline: none;
+}
+a {
+    text-decoration: none !important;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+/**************Class Selectors***********/
